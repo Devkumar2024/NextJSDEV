@@ -64,7 +64,7 @@ export default function Intro() {
   transition={{ duration: 0.6, ease: "easeOut" }}
 >
   <span className="block text-transparent bg-clip-text bg-gradient-to-r from-blue-500 to-purple-600 font-bold">Hello, I'm DEV KUMAR.</span> 
-  I'm a{" "}
+  I'm an{" "}
   <span className="font-bold text-blue-500">IT Graduate</span> with{" "}
   <span className="relative inline-block font-bold">
     <span className="absolute inset-0 bg-gradient-to-r from-green-400 to-teal-500 opacity-20 blur-sm"></span>
