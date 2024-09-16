@@ -65,13 +65,13 @@ export default function Intro() {
 >
   <span className="block text-transparent bg-clip-text bg-gradient-to-r from-blue-500 to-purple-600 font-bold">Hello, I'm DEV KUMAR.</span> 
   I'm a{" "}
-  <span className="font-bold text-blue-500">full-stack developer</span> with{" "}
+  <span className="font-bold text-blue-500">IT Graduate</span> with{" "}
   <span className="relative inline-block font-bold">
     <span className="absolute inset-0 bg-gradient-to-r from-green-400 to-teal-500 opacity-20 blur-sm"></span>
     <span className="relative">a passion for</span>
   </span>{" "}
-  <span className="italic text-gray-600">building sites & apps</span>. My focus is{" "}
-  <span className="underline text-purple-500">React (Next.js)</span>.
+  <span className="italic text-gray-600">Computer science</span>. My focus is{" "}
+  <span className="underline text-purple-500">CS core.</span>.
 </motion.h1>
 
       <motion.div
