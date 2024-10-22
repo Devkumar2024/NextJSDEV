@@ -2,10 +2,10 @@ import React from "react";
 import { CgWorkAlt } from "react-icons/cg";
 import { FaReact } from "react-icons/fa";
 import { LuGraduationCap } from "react-icons/lu";
-import corpcommentImg from "@/public/Project2.png";
-import rmtdevImg from "@/public//Project1.png";
-import wordanalyticsImg from "@/public/project4.jpg";
-import protfolio from "@/public/Project3.png";
+import corpcommentImg from "@/public/project.jpg";
+import rmtdevImg from "@/public//project.jpg";
+import wordanalyticsImg from "@/public/project.jpg";
+import protfolio from "@/public/abc.png";
 
 
 export const links = [
@@ -37,69 +37,55 @@ export const links = [
 
 export const experiencesData = [
   {
-    title: "High School [CBSE]",
-    location: "Ludhiana, Punjab",
+    title: "High School [PSEB]",
+    location: "Amritsar, Punjab",
     description:
-      "Achieved a score of 89.6% in Class X and 88.6% in Class 12th [88.6%] with a focus on Physics, Chemistry, and Mathematics (PCM). Awarded the gold medal in the SOF Physics Olympiad in Class 12th at the school level.",
+      "Did my high schooling form PB memorial public school, I did my Xii in commerce.",
     icon: React.createElement(LuGraduationCap),
-    date: "2013 - 2020",
+    date: "2013 - 2022",
   },
+  
   {
-    title: "Course Student - [Code in Place (CS-106A)]",
-    location: "Stanford Online · Apprenticeship",
+    title: "Diploma in IT",
+    location: "Govt. Polytechnique college Amritsar, Punjab",
     description:
-      "Completed an apprenticeship from April 2021 to June 2021, gained knowledge in computing and Python programming, along with exposure to various other computing concepts. Interacting with Section Leaders was a highly enriching and informative experience. ",
-    icon: React.createElement(LuGraduationCap),
-    date: "Apr 2021 - Jun 2021",
-  },
-  {
-    title: "Bachelor of Technology IT [IKGPTU]",
-    location: "Ludhiana, Punjab",
-    description:
-      "CGPA : 8.24",
+      "Persuing my current study in diploma",
     icon: React.createElement(CgWorkAlt),
-    date: "2020 - 2024",
+    date: "2022 - 2025",
   },
  
   
-  {
-    title: "Full-Stack Developer Training",
-    location: "Mohali Punjab",
-    description:
-      "ThinkNEXT Technologies Private Limited",
-    icon: React.createElement(FaReact),
-    date: "Jan-June 2024",
-  },
+ 
 ] as const;
 
 export const projectsData = [
   {
-    title: "Online Learning Portal",
+    title: "Portfolio",
     description:
-      "The goal of this project is to develop an innovative Online Learning portal that revolutionizes the way students engage with learning materials",
-    tags: ["React", "Razorpay", "PostMan", "Tailwind", "MongoDB"],
-    imageUrl: wordanalyticsImg,
+      "Basic portfolio webiste, to be updated more in future as per my training project",
+    tags: ["Html", "css", "Js", "React JS"],
+    imageUrl: protfolio,
   },
   {
-    title: "Room Reservation Website",
+    title: "Project 1",
     description:
-      "Webiste for booking hotels, PG rooms for guests, students, travel, vacation etc.",
-    tags: ["Laravel", "JS", "PhP", "Tailwind", "Paypal"],
+      "To be updated.....",
+    tags: ["Tag1", "Tag2", "Tag3", "Tag4", "Tag5"],
     imageUrl: rmtdevImg,
   },
   {
-    title: "CyberConverse",
+    title: "Project 2",
     description:
-      "A discord clone for creating server, chatting with friends, live chat, calls etc.",
-    tags: ["React", "Next.js", "SQL", "Tailwind", "Framer"],
-    imageUrl: corpcommentImg,
+      "To be updated.....",
+    tags: ["Tag1", "Tag2", "Tag3", "Tag4", "Tag5"],
+    imageUrl: rmtdevImg,
   },
   {
-    title: "Portfolio",
+    title: "Project 3",
     description:
-      "Basic portfolio webiste",
-    tags: ["Html", "css", "Js"],
-    imageUrl: protfolio,
+      "To be updated.....",
+    tags: ["Tag1", "Tag2", "Tag3", "Tag4", "Tag5"],
+    imageUrl: rmtdevImg,
   },
 
 
@@ -109,20 +95,17 @@ export const skillsData = [
   "HTML",
   "CSS",
   "JavaScript",
-  "TypeScript",
-  "React",
-  "Next.js",
-  "Node.js",
-  "Git",
-  "Tailwind",
-  "Prisma",
-  "MongoDB",
-  "Redux",
-  "GraphQL",
+  "Ms office",
+  "Word",
+  "Windows OS",
+  "Core CS",
+  "Operating system",
+  "Data Structure",
+  "Computer Networks",
   "DBMS",
   "Java",
   "C/C++",
   "Computer Orgn.",
-  "CN",
+  "English",
   "Digial logic",
 ] as const;

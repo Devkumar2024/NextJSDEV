@@ -19,8 +19,10 @@ export default function About() {
     >
       <SectionHeading>About me</SectionHeading>
       <p className="mb-5 text-lg leading-relaxed text-gray-800 dark:text-gray-300">
-  Hi, my name is <span className="font-semibold text-transparent bg-clip-text bg-gradient-to-r from-blue-500 to-purple-500">Dev Kumar</span>, a passionate software developer who recently graduated from GNDEC with a B.Tech in IT. I am currently looking for <span className="font-semibold text-blue-500 dark:text-blue-400">developer intern</span> and <span className="font-semibold text-blue-500 dark:text-blue-400">full-time roles</span>. <span className="italic text-gray-600 dark:text-gray-400">I love the feeling of finally figuring out a solution to a problem.</span> My core stack includes <span className="font-semibold text-transparent bg-clip-text bg-gradient-to-r from-green-400 to-teal-500">COA, DBMS, Therotical CS etc.</span>. I also have a strong grip on <span className="font-semibold text-green-500 dark:text-green-400">core CS subjects</span>.
+  Hi, my name is <span className="font-semibold text-transparent bg-clip-text bg-gradient-to-r from-blue-500 to-purple-500">Ishaan</span>, a passionate IT student currently pursuing a diploma in Information Technology. My core knowledge includes subjects like <span className="font-semibold text-transparent bg-clip-text bg-gradient-to-r from-green-400 to-teal-500">COA, DBMS, and Theoretical Computer Science</span>. I also have a solid understanding of <span className="font-semibold text-green-500 dark:text-green-400">core computer science subjects</span>.
 </p>
+
+
 
 <p className="text-lg leading-relaxed text-gray-800 dark:text-gray-300">
   <span className="italic text-gray-600 dark:text-gray-400">When I'm not coding</span>, I enjoy playing games, reading, and going for walks. I have a passion for <span className="font-semibold text-yellow-500 dark:text-yellow-400">learning new things</span>, especially when it comes to <span className="font-semibold text-yellow-500 dark:text-yellow-400">science</span>.
